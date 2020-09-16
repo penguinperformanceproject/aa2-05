@@ -1,2 +1,2 @@
-//hello.js
-console.log("Hello Node! by aa05");
+// hello.js
+console.log("Hello Node.js! by aa05");
